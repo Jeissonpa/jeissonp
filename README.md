@@ -1,4 +1,4 @@
-### Hola, soy Jeisson 👋.  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" >
+### Hola, soy Jeisson 👋. 
 
 
 <br/>
