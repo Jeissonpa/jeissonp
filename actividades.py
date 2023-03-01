@@ -23,5 +23,6 @@ print(f"El resultado de la potencia : {g}")
 print(f"El resultado de la raiz de a es : {h}")
 
 #Ejercicio
-
+R= (4+8*2)/4-(3**2)+math.sqrt(4)
+print (R)
 #contenedor 2
