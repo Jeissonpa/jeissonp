@@ -24,5 +24,4 @@ print(f"El resultado de la raiz de a es : {h}")
 
 #Ejercicio
 
-R = 15/3*(7+(68-15*33+((45**2)/5)/3)/2)+19
-print(float(R))
+#contenedor 2
