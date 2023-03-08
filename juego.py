@@ -1,3 +1,5 @@
+#utilizar continue y break generar un contador de rondas y adicional a ello que halla un ganador al que cualquier jugador 
+#llege a 3 puntos y este diga el ganador
 import random
 max_intentos = 3
 intentos = 0
