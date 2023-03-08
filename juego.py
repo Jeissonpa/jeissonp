@@ -1,9 +1,14 @@
-#Importal libreria
 import random
-#opciones
+max_intentos = 3
+intentos = 0
+ #opciones
 op = ("Piedra", "Papel","Tijera")
+while intentos < max_intentos:
+    print("Ejecutando ronda", intentos+1)
+    intentos += 1
+ 
 #estructura while
-while True:
+
     #Entradas
     usuario = input("Digite la opcion Piedra, Papel o Tijera: ")
     cpu = random.choice(op)
@@ -33,3 +38,4 @@ while True:
         print("Gana usuario!!")
     else:
         print("error")
+    
